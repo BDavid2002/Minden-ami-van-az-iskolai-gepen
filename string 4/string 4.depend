@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570695834 source:d:\boldizsar nagy david xi.b\string 4\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+
