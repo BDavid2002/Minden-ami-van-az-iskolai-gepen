@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571730801 source:d:\boldizsar nagy david xi.b\hazi dupla tomb\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
